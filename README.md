@@ -1,5 +1,10 @@
 <h1 align="center">Hi 👋, We are Codex Devware Team</h1>
 <h3 align="center">Professional Full Stack Developer Team</h3>
+<p> Codex Devware is a growing company that was established to foster success in the IT industry. Since its inception, the organization has been aiming to create a Digital Bangladesh and alleviate the problem of unemployment by developing a skilled nation.
+
+We, Codex Devware, are an innovative and promising startup made of experienced and dedicated individuals with knowledge in a variety of platforms. We provide onsite as well as offsite Software Development, Web Design, Web Development, Mobile Application Development services. Additionally our team is able to offer services like Digital Marketing, Search Engine Optimization, Data Analysis and more. The team has previously done similar tasks in the same field. Codex Devware is young yet promising startup.
+
+With only one click, Codex Devware may offer a variety of services. We offers services like as SEO and Digital Marketing etc.</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codex-devware&label=Profile%20views&color=0e75b6&style=flat" alt="codex-devware" /> </p>
 
